@@ -3,6 +3,9 @@
 - 🎓 Graduating in Computer Science at a federal university (Ufes)
 - 🕵 Like to study Security, Hacking and Automation
 
+## Resume ##
+Sou curioso e gosto de aprender muitas coisas. Gosto de estar entre os melhores no que faço. Tenho o objetivo de obter experiência profissional em minha área de graduação, continuar estudando cada vez mais, obtendo domínio sobre o que faço.
+
 ## Lenguages knowed ##
 
 <div style="display: inline_block"><br>
@@ -15,7 +18,6 @@
   
 </div>
 
-## Resume ##
 
 
 ![github-stats-imagerd](https://github-readme-stats.vercel.app/api?username=100Nexten&show_icons=true&theme=chartreuse-dark)
