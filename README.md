@@ -4,7 +4,11 @@
 - 🕵 Like to study Security, Hacking and Automation
 
 ## Resume ##
-Sou curioso e gosto de aprender muitas coisas. Gosto de estar entre os melhores no que faço. Tenho o objetivo de obter experiência profissional em minha área de graduação, continuar estudando cada vez mais, obtendo domínio sobre o que faço.
+Me chamo Christian, 20 anos, sou um tanto curioso no mundo da tecnologia.
+Atualmente estou graduando em Ciência da computação na Universidade Federal do Espírito Santo (UFES), e no tempo livre estudo Desenvolvimento web, Frontend(React) e Backend(Node).
+Me interesso bastante pela área da Segurança da informação, principalmente em WebHacking.
+
+Quero ingressar ao mercado para obter experiência profissional na área, e estou em busca da primeira oportunidade
 
 ## Lenguages knowed ##
 
