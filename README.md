@@ -1,6 +1,7 @@
 #  Christian Lima #
 
 - 🎓 Graduating in Computer Science at a federal university (Ufes)
+- ⚛️ Learning Front-end with react and Back-end with node
 - 🕵 Like to study Security, Hacking and Automation
 
 ## Resume ##
