@@ -6,10 +6,9 @@
 
 ## Resume ##
 Me chamo Christian, 20 anos, sou um tanto curioso no mundo da tecnologia.
-Atualmente estou graduando em Ciência da computação na Universidade Federal do Espírito Santo (UFES), e no tempo livre estudo Desenvolvimento web, Frontend(React) e Backend(Node).
+Atualmente estou graduando em Ciência da computação na Universidade Federal do Espírito Santo (UFES), e no tempo livre estudo Desenvolvimento web, Frontend(React) e Backend.
 Me interesso bastante pela área da Segurança da informação, principalmente em WebHacking.
 
-Quero ingressar ao mercado para obter experiência profissional na área, e estou em busca da primeira oportunidade
 
 ## Languages knowed ##
 <div style="display:flex; justify-content:space-between; align-items:center"><br>
